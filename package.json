@@ -1,0 +1,13 @@
+{
+    "name": "com.zimad.unity.modules.testmodule",
+    "version": "1.3.9",
+    "displayName": "[ZIMAD] Test module",
+    "description": "Test module for Zimad",
+    "dependencies": {
+        "com.unity.purchasing": "4.12.2"
+    },
+    "unity": "2020.3",
+    "author": {
+        "name": "ZIMAD"
+    }
+}
